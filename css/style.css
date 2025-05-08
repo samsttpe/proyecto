@@ -174,7 +174,9 @@ font-family:Arial, Helvetica, sans-serif;
         color: #888;
       }
 
-      img{width: 100%;
-        max-width: 1000px;
-   }
-      
+     img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
